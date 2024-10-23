@@ -1,7 +1,7 @@
-#Layoffs Data Analysis using MySQL
+# Layoffs Data Analysis using MySQL
 This project focuses on analyzing layoffs data, sourced from Kaggle, using MySQL for data cleaning and structuring. The dataset consists of various key columns: company, location, industry, total_laid_off, percentage_laid_off, date, stage, country, and funds_raised_millions.
 
-#Key Features:
+# Key Features:
 Data Extraction: The dataset was imported into MySQL Workbench.
 Data Cleaning: Three tables were created for this process:
 layoffs (raw data),
